@@ -5,6 +5,9 @@ env:
   - NODE_VERSION="0.12.0"
   - NODE_VERSION="iojs-1.0.4"
   - NODE_VERSION="iojs-1.1.0"
+  - NODE_VERSION="4"
+  - NODE_VERSION="5"
+  - NODE_VERSION="6"
   global:
     secure: VwwHS3ZYxu5WudTcWRw588aekYZrTHMDvziNWLhPnadVs+ami6EF7CMHFZenkvSehmmaunKaH0vcNuxDXqLjrZN8Qt6aOuVVq9o/N6+8OG6/E2D0lDRFF9OZdAKetzS7EtoZfVJpqe009leg9V5mjx3uo1WRlc6SqmeKynaUDaY=
 
